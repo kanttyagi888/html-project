@@ -1,5 +1,7 @@
 body {
     background-color: #00FA9A;
+    background-image: url("IMG_20220119_130317__01.jpg");
+    background-size: cover;
 }
    
 #title {
@@ -9,14 +11,14 @@ body {
 }
 
 img {
-    display: inline;
-   width: 200px;
+    display: inline-block;
+    height: 20px;
    text-align: center;
    
 }
 
 #caption {
-    display: inline;
+    display: inline-block;
     font-size: 17px;
     font-family: Gill Sans;
     color: black;   
