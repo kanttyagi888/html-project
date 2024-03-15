@@ -10,10 +10,9 @@ body {
     font-size: 7vh;
 }
 
-img {
-    display: inline-block;
-    height: 20px;
-   text-align: center;
+#img {
+    size: 10px;
+   
    
 }
 
@@ -24,7 +23,7 @@ img {
     color: black;   
 }
 
-div#tribute-data {
+#tribute-data {
     background-color: rgb(46,139,87,0.25);
     box-shadow: 20px 20px 20px #98FB98;
     font-family: georgia;
